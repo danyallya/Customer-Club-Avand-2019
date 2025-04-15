@@ -2,13 +2,25 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## Description
-This project is a simple flight ticket booking system built using HTML, CSS, and jQuery. It was developed in 2017 for an airline ticket sales company. The system includes three main pages:
-- **Home Page**: A landing page with information about the service.
-- **Tour Selection Page**: Allows users to choose their desired tour or flight.
-- **Tour Details Page**: Displays detailed information about the selected tour.
 
-The design is clean, responsive, and user-friendly, making it easy for customers to browse and book flights.
+## Description
+This project is a customer club management system built using HTML, CSS, and JavaScript. It was developed for "Avand" to provide an interactive platform for managing customer memberships, rewards, and communications.
+
+The system includes the following features:
+- **Membership Management**: Add, update, and view customer profiles.
+- **Reward System**: Track points and rewards for customers.
+- **Notifications**: Send updates and offers to customers.
+- A clean and responsive design for seamless user experience.
+
+---
+
+## Features
+- **Dashboard**: An overview of customer data and statistics.
+- **Membership Management**: CRUD operations for customer profiles.
+- **Reward Tracking**: Display and manage reward points.
+- Fully responsive design for different screen sizes.
+- Interactive elements powered by JavaScript.
+
 
 ---
 
