@@ -24,20 +24,6 @@ The system includes the following features:
 
 ---
 
-## Features
-- **Home Page**:
-  - Introduction to the service.
-  - Links to tour selection and other pages.
-- **Tour Selection Page**:
-  - Search functionality for finding tours/flights.
-  - List of available tours with basic details (e.g., destination, price).
-- **Tour Details Page**:
-  - Comprehensive information about the selected tour.
-  - Booking options and contact details.
-- Fully responsive design for different screen sizes.
-- Interactive elements powered by jQuery.
-
----
 
 ## Technologies Used
 - **HTML5**: Structure of the web pages.
